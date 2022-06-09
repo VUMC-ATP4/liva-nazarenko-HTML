@@ -1,7 +1,7 @@
 p{
-    color:grey;
-    }
-    #nosaukums  {
+    
+}
+    #name{
     font-weight:bolder;
     font-style:normal;
     text-align: left;
@@ -13,40 +13,40 @@ p{
     grid-template-columns: 40% 60%;
     padding: 40px;
     }
-    .kreisaisramis {
+    .leftframe {
     font-family: 'Times New Roman', Times, serif, sans-serif;
     padding: 70px;
     background-color: rgb(145, 155, 155);
    
     }
-    .labaisramis { 
+    .rightframe{ 
     font-family: Times New Roman, 'Times New Roman', Times, serif;
     padding: 70px;
     font-size: large;
     background-color: rgb(193, 221, 222);
     }
-    .tumsizilsvirsraksts {
+    .lefttitle {
         text-align: left;
         font-weight: bold;
         font-family: Times New Roman, 'Times New Roman', Times, serif;
         font-size: x-large;
         color: rgb(43, 43, 44);
     }
-    .tumsizils {
+    .leftside {
     font-weight: lighter;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
     color: rgb(27, 16, 53);
     }
-    .tumsipeleksvirsraksts {
+    .righttitle {
     text-align: left;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     color: rgb(43, 43, 44);
     }
-    .tumsipeleks {
+    .rightside {
     font-weight: lighter;
     font-family: 'Times New Roman', Times, serif ;
     font-size: large;
