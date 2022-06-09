@@ -1,39 +1,55 @@
-#unikum{
-    color: red;
-    font-size: large;
-}
-
-
-.zalsteksts {
-    color: green;
-    border-style: dashed;
-}
-
-.ramitis {
-    border-style: double;
-    border-color: aqua;
-
-}
-
-#specialramitis{
-    border-style: dashed;
-    border-color: cornflowerblue;
-    margin:20px;
-    padding: 20px;
-    width: 50%;
+p{
+    color:grey;
+    }
+    #nosaukums  {
+    font-weight:bolder;
+    font-style:normal;
+    text-align: left;
+    }
+    #specialramis{
+    width: auto;
+    margin: auto;
     display: grid;
-    grid-template-columns: 20% 80%;
-}
-
-ul li{
-    font-style: italic;
-
-}
-
-ol li{
-    text-decoration: underline;
-}
-
-body{
-    background-color: aquamarine;
-}
+    grid-template-columns: 40% 60%;
+    padding: 40px;
+    }
+    .kreisaisramis {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    padding: 70px;
+    background-color: rgb(145, 155, 155);
+   
+    }
+    .labaisramis { 
+    font-family: Times New Roman, 'Times New Roman', Times, serif;
+    padding: 70px;
+    font-size: large;
+    background-color: rgb(193, 221, 222);
+    }
+    .tumsizilsvirsraksts {
+        text-align: left;
+        font-weight: bold;
+        font-family: Times New Roman, 'Times New Roman', Times, serif;
+        font-size: x-large;
+        color: rgb(43, 43, 44);
+    }
+    .tumsizils {
+    font-weight: lighter;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(27, 16, 53);
+    }
+    .tumsipeleksvirsraksts {
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: rgb(43, 43, 44);
+    }
+    .tumsipeleks {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: large;
+    color: rgb(43, 43, 44);
+    }
+   
